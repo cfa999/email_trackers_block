@@ -1,12 +1,12 @@
-0.0.0.0 acxiom-online.com
-0.0.0.0 adsrvr.org
-0.0.0.0 adsymptopic.com
-0.0.0.0 advertising.com
-0.0.0.0 agkn.com
-0.0.0.0 alcmpn.com
-0.0.0.0 alocdn.com
-0.0.0.0 api.mixpanel.com
-0.0.0.0 app.mixmax.com
+acxiom-online.com
+adsrvr.org
+adsymptopic.com
+advertising.com
+agkn.com
+alcmpn.com
+alocdn.com
+api.mixpanel.com
+app.mixmax.com
 app.outreach.io
 app.relateiq.com
 app.yesware.com
@@ -172,14 +172,14 @@ voicefive.com
 web.frontapp.com
 webtrekk.net
 xqueue.de
-0.0.0.0 yesware.com
-0.0.0.0 ziffimages.com
-0.0.0.0 link.getmailspring.com
-0.0.0.0 l.sololearn.com
-0.0.0.0 *.mailgun.*.com/*
-0.0.0.0 *.mailgun.com
-0.0.0.0 link.mail.mytaxi.com
-0.0.0.0 email.uber.com
-0.0.0.0 link.notifications.atlassian.com
-0.0.0.0 *.change.org
-0.0.0.0 email.thunkablemail.com
+yesware.com
+ziffimages.com
+link.getmailspring.com
+l.sololearn.com
+*.mailgun.*.com/*
+*.mailgun.com
+link.mail.mytaxi.com
+email.uber.com
+link.notifications.atlassian.com
+*.change.org
+email.thunkablemail.com
