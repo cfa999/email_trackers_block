@@ -1,12 +1,12 @@
-acxiom-online.com
-adsrvr.org
-adsymptopic.com
-advertising.com
-agkn.com
-alcmpn.com
-alocdn.com
-api.mixpanel.com
-app.mixmax.com
+0.0.0.0 acxiom-online.com
+0.0.0.0 adsrvr.org
+0.0.0.0 adsymptopic.com
+0.0.0.0 advertising.com
+0.0.0.0 agkn.com
+0.0.0.0 alcmpn.com
+0.0.0.0 alocdn.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 app.mixmax.com
 app.outreach.io
 app.relateiq.com
 app.yesware.com
